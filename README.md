@@ -5,7 +5,7 @@
 * I`d finished professional retraining the family doctor, sports doctor and got the certificates in 2019.
 * I`d graduated from the FMSMU named I.M. Sechenov in 2020.
 * I got the certificate Intra-articular injections in rheumatology in 2021.
-* In 2022 he entered the study in Netologia in the direction QA.  
+* In 2022 he entered the study in Netology in the direction QA.  
 
 ## _Work_
 * From 2014 to 2018 he`d worked as a nurse in City Clinical Hospital No. 25.
